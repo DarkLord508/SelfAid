@@ -1,1 +1,1 @@
-# SelfAid
+# SelfAid - Stress Reliever Application
