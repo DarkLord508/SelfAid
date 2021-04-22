@@ -26,6 +26,7 @@ This app promises you to feel a more balanced and more joyful life. The greatest
   <li> <b> Books Library </b>
     <p> This sections contains some wonderful books. Explore them all. </p>
   </li>
+ </ul>
  <br>
  <h3> Languages and Technologies used: </h3>
  <ul>
